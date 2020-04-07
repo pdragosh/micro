@@ -13,7 +13,7 @@ module.exports = {
 	extKeyRequired: false,
 	oauth: false,
 	"errors": {},
-        "blueprint": "blueprint.json",
-        "component.spec": "spec.json",
-        "config": "config.json"
+        blueprint: "blueprint.json",
+        spec: "spec.json",
+        config: "config.json"
 };
